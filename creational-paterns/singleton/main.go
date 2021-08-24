@@ -1,4 +1,4 @@
-package creational_pattern_singleton
+package singleton
 
 func Run()  {
 	var (
