@@ -1,7 +1,7 @@
 package main
 
-import creational_pattern_singleton "GolangDesignPatterns/creational-paterns/singleton"
+import "GolangDesignPatterns/creational-paterns/factory"
 
 func main()  {
-	creational_pattern_singleton.Run()
+	factory.Run()
 }
