@@ -9,5 +9,5 @@ type AKM struct {
 
 func (a AKM) shot()  {
 	a.Gun.shot()
-	fmt.Println("Scope: ",a.Barrel)
+	fmt.Println("Barrel: ",a.Barrel)
 }
