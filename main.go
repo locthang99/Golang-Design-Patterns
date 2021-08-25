@@ -1,7 +1,9 @@
 package main
 
-import "GolangDesignPatterns/creational-paterns/factory"
+import (
+	"GolangDesignPatterns/creational-paterns/abstract-factory"
+)
 
 func main()  {
-	factory.Run()
+	abstract_factory.Run()
 }
