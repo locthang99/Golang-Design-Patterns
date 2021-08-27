@@ -1,9 +1,9 @@
 package main
 
 import (
-	"GolangDesignPatterns/creational-paterns/builder"
+	"GolangDesignPatterns/creational-paterns/prototype"
 )
 
 func main() {
-	builder.Run()
+	prototype.Run()
 }
