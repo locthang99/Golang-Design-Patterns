@@ -1,7 +1,7 @@
 package main
 
-import "GolangDesignPatterns/structural-patterns/adapter"
+import "GolangDesignPatterns/structural-patterns/proxy"
 
 func main() {
-	adapter.Run()
+	proxy.Run()
 }
