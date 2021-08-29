@@ -3,7 +3,7 @@ package proxy
 import "fmt"
 
 type GunSystem struct {
-	Guns          []Gun
+	Guns          []IShotHandle
 	IndexShotGun  int
 	MaxShot       int
 	GunSystemName string
