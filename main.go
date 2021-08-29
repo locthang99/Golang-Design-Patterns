@@ -1,9 +1,7 @@
 package main
 
-import (
-	"GolangDesignPatterns/creational-paterns/prototype"
-)
+import "GolangDesignPatterns/structural-patterns/adapter"
 
 func main() {
-	prototype.Run()
+	adapter.Run()
 }
