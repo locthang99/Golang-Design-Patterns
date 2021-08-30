@@ -1,7 +1,9 @@
 package main
 
-import "GolangDesignPatterns/structural-patterns/proxy"
+import (
+	"GolangDesignPatterns/structural-patterns/bridge"
+)
 
 func main() {
-	proxy.Run()
+	bridge.Run()
 }
