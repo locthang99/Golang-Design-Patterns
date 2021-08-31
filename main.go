@@ -1,9 +1,9 @@
 package main
 
 import (
-	"GolangDesignPatterns/structural-patterns/bridge"
+	"GolangDesignPatterns/structural-patterns/composite"
 )
 
 func main() {
-	bridge.Run()
+	composite.Run()
 }
