@@ -1,9 +1,9 @@
 package main
 
 import (
-	"GolangDesignPatterns/structural-patterns/composite"
+	"GolangDesignPatterns/structural-patterns/decorator"
 )
 
 func main() {
-	composite.Run()
+	decorator.Run()
 }
