@@ -1,9 +1,9 @@
 package main
 
 import (
-	"GolangDesignPatterns/structural-patterns/decorator"
+	"GolangDesignPatterns/structural-patterns/facade"
 )
 
 func main() {
-	decorator.Run()
+	facade.Run()
 }
